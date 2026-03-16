@@ -16,22 +16,7 @@
 
  <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
 
-  <div >
-    Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
-   </div>
-</div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🚀 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. ✨ [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🌐 [Community](#more)
-
+  
 ## Introduction
 
 Dive into creating a cutting-edge web experience designed for Awwwards recognition, with **GSAP (GreenSock Animation Platform)** at its core. This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website.
@@ -42,23 +27,12 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 - 🌀 Tailwind CSS v4
 - 🎞️ GSAP (GreenSock Animation Platform)
 
-## Features
-
-In this course, You’ll learn how to:
-
-- ✨ Parallax Like a Pro
-- ⚡️ Master Clip-Path Magic
-- 🕹️ Control ScrollTrigger & ScrollSmoother
-- 😉 Pin Elements with Style
-- 🧑‍💻 Reveal Text Like Awwwards Pros
-- 👏 Build GSAP Timelines that Actually Feel Good
-- 📱 It's Fully responsive and mobile-friendly
 
 ## Quick Start
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone [https://github.com/NextMutant/ColdDrink.git](https://github.com/NextMutant/ColdDrink.git)
 
 # 2. Install dependencies
 npm install
@@ -465,14 +439,4 @@ export { flavorlists, nutrientLists, cards };
 
 </details>
 
-## Assets
-
-- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
-- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
-
-## Community
-
-Join the community and connect with other developers!
-
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
+(https://discord.gg/cbtfr4BHF9)
