@@ -14,10 +14,20 @@
  <h3 style="font-weight:700;font-size:30px;">Splyt Cold-Drink Website</h3>
 
   <div >
-    A replica of  website that has won an Awwwards Site of the Day.
+     A replica of website that has won an Awwwards Site of the Day.
     This is a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🚀 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. ✨ [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets (Code to Copy)](#snippets)
+6. 🔗 [Assets](#links)
+7. 🌐 [Community](#more)
 
 ## Introduction
 A cutting-edge web experience designed for Awwwards recognition, with **GSAP (GreenSock Animation Platform)** at its core. This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website.
@@ -30,12 +40,13 @@ A cutting-edge web experience designed for Awwwards recognition, with **GSAP (Gr
 
 ## Features
 
+In this course, You’ll learn how to:
+
 - ✨ Parallax Effect
 - ⚡️ Clip-Path Magic
 - 🕹️ ScrollTrigger & ScrollSmoother
 - 👏 GSAP Timelines 
 - 📱 Fully responsive and mobile-friendly
-
 ## Quick Start
 
 ```bash
@@ -47,4 +58,3 @@ npm install
 
 # 3. Start the dev server
 npm run dev
-
